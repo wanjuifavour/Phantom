@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "434587115554",
+    "project_id": "phantom-c1dc4",
+    "storage_bucket": "phantom-c1dc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434587115554:android:43b192ea33e89177e7ea7b",
+        "android_client_info": {
+          "package_name": "com.fav.phantom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjuWBi6Z959bLtJBU4f8HRqCmijZgXhdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
