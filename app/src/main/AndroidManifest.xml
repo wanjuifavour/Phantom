@@ -13,6 +13,32 @@
         android:theme="@style/Theme.Phantom"
         tools:targetApi="31">
         <activity
+            android:name=".MainActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".StaffLoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AdminDashboardActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LecturerDashBoardActivity"
+            android:exported="false" />
+        <activity
+            android:name=".StudentDashBoardActivity"
+            android:exported="false" />
+        <activity
+            android:name=".StudentLoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".StudentSignUpActivity"
+            android:exported="false"
+            android:label="@string/title_activity_student_auth"
+            android:theme="@style/Theme.Phantom" />
+        <activity
+            android:name=".StaffSignUpActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
