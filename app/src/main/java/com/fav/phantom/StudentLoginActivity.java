@@ -122,7 +122,7 @@ public class StudentLoginActivity extends AppCompatActivity {
         }catch (Exception e){
             e.printStackTrace();
             Toast.makeText(getApplicationContext(), e.getMessage(), Toast.LENGTH_LONG).show();
-            Log.d("FBAUTHENTICATION", Objects.requireNonNull(e.getMessage()));
+            Log.d("AUTHENTICATION", Objects.requireNonNull(e.getMessage()));
             restoreUiState();
         }
     }
